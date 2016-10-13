@@ -17,6 +17,7 @@ NEWSPIDER_MODULE = 'WeatherReport.spiders'
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
 #USER_AGENT = 'WeatherReport (+http://www.yourdomain.com)'
+USER_AGENT = 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.56 Safari/535.11'
 
 # Obey robots.txt rules
 ROBOTSTXT_OBEY = True
