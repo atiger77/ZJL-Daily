@@ -3,8 +3,7 @@
 import sys
 import requests
 ip = list(sys.argv)[1]
-ak = 'jIxP1eOG5e6a48shWbEFOd5UxVvZ18Fn'
-#ak = 'your own key'
+ak = 'your own key'
 url = "http://api.map.baidu.com/highacciploc/v1?qcip="+ip+"&qterm=pc&ak="+ak+"&coord=bd09ll&extensions=1"
 r = requests.get(url)
 a =  r.json()
