@@ -1,5 +1,6 @@
 # ZJL-Daily
 放一些平时用到的代码
+![](jiqimao.jpeg)
 
 ## QiuBai
 使用Scrapy抓取糗事百科的作者和糗事内容，最后都放到EXCEL中保存。
