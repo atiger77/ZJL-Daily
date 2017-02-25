@@ -1,5 +1,5 @@
 # ZJL-Daily
-![](jiqimao.jpeg =100x80)
+<img src="jiqimao.jpeg" width="50%" height="50%" />
 
 ## QiuBai
 使用Scrapy抓取糗事百科的作者和糗事内容，最后都放到EXCEL中保存。
